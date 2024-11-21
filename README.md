@@ -21,9 +21,9 @@
 <a href="https://www.instagram.com/qulqull_/" target="_blank">
 <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt=instagram style="margin-bottom: 5px;" width="70" height="70"/>
 </a> 
-<a href="https://discordapp.com/users/1011201733231378494" target="_blank">
+<!-- <a href="https://discordapp.com/users/1011201733231378494" target="_blank">
 <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt=Discord style="margin-bottom: 5px;" width="70" height="70"/>
-</a>
+</a> -->
 
 </div>
 
