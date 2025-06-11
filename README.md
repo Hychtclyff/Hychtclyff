@@ -213,7 +213,7 @@
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hychtclyff&theme=city_lights" alt="Hychtclyff Stat's" />
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hychtclyff&theme=city_lights" alt="Hychtclyff Stat's" />
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hychtclyff&theme=city_lights" alt="Hychtclyff Stat's" />
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hychtclyff&theme=city_lights" alt="Ofren dialsa Stat's" />
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hychtclyff&theme=city_lights" alt="Hychtclyff Stat's" />
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hychtclyff&theme=city_lights&utcOffset=8" alt="Hychtclyff Stat's" />  
 </div>
 
