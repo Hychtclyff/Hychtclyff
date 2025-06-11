@@ -208,14 +208,7 @@
 ## 📝 GitHub Profile Summary Cards
 
 
-<div align="center">
- 
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hychtclyff&theme=city_lights" alt="Hychtclyff Stat's" />
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hychtclyff&theme=city_lights" alt="Hychtclyff Stat's" />
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hychtclyff&theme=city_lights" alt="Hychtclyff Stat's" />
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hychtclyff&theme=city_lights" alt="Hychtclyff Stat's" />
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hychtclyff&theme=city_lights&utcOffset=8" alt="Hychtclyff Stat's" />  
-</div>
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hychtclyff&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hychtclyff&layout=compact&langs_count=8&theme=radical"/> </div><div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hychtclyff&theme=radical" alt="GitHub Streak"/> </div>
 
 <img src="https://github.com/punitkmryh/punitkmryh/raw/master/wave.svg" style="max-width: 100%;">
-      
+
