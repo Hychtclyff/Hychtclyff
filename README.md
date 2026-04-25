@@ -1,78 +1,90 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" alt="Coding Animation" style="width: 100%; max-width: 800px; border-radius: 15px; margin-bottom: 15px;" />
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=800&size=24&pause=1000&color=0600F7&background=F5FFFA00&vCenter=true&width=600&lines=Hi!+I+am+Quls+👋;Full-Stack+Web+Developer;Building+Qafila+%26+Vangrove+ecosystems;Academic+Researcher" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Workspace&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
 </div>
 
-<br/>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello, I'm Quls
+</h1>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/yudriqul-aulia-4218b2292" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60" height="60" style="margin: 0 10px;" />
-  </a>
-  <a href="https://www.instagram.com/qulqull_/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="60" height="60" style="margin: 0 10px;"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF7F&center=true&vCenter=true&width=800&lines=🚀+Full-Stack+Software+Engineer;🔥+Building+Sentinel+(Featured);💻+Developing+Qafila+%26+Vangrove;🔬+Software+Engineering+Researcher" alt="Typing SVG" />
   </a>
 </div>
 
-<br/>
+<div align="center">
+  <a href="mailto:yudriqul20803@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/yudriqul-aulia-4218b2292"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/qulqull_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</div>
+<br>
 
-## 🚀 About Me
+---
+
+## 👨‍💻 About Me
+
 <table>
   <tr>
-    <td valign="top" width="55%">
-      <h3>"Crafting smooth, efficient, and high-performance web ecosystems."</h3>
-      <br/>
-      🌱 <b>Currently focused on:</b> Developing <strong>Qafila</strong> (EdTech) & <strong>Vangrove</strong> (AgriTech).<br/><br/>
-      🎓 <b>Academic:</b> Finalizing research on <i>Non-Functional Requirements</i> in Software Engineering.<br/><br/>
-      🛠️ <b>Tech Stack:</b> Mastering the modern full-stack flow with <b>Bun, NestJS, Prisma, Next.js, and Tailwind CSS</b>.<br/><br/>
-      💬 <b>Talk to me about:</b> Web Architecture, Database Schemas, or pixel-perfect UI/UX in <b>Figma</b>.<br/><br/>
-      📫 <b>Reach me:</b> <a href="mailto:yudriqul20803@gmail.com"><b>yudriqul20803@gmail.com</b></a><br/><br/>
+    <td width="60%">
+      <p>I am a Full-Stack Developer and Academic Researcher specializing in architecting scalable, high-performance web ecosystems. My work bridges the gap between complex software engineering concepts and elegant, user-centric solutions.</p>
+      <br>
+      ✨ <b>Featured Work:</b> Actively building and refining <b>Sentinel</b>.<br><br>
+      🚧 <b>Current Projects:</b> 
+      <ul>
+        <li><b>Vangrove:</b> Developing an AI-integrated AgriTech platform.</li>
+        <li><b>Qafila:</b> Architecting a comprehensive school management ecosystem.</li>
+      </ul>
+      🎓 <b>Academic Research:</b> Focusing on the identification and verification methods of <i>Non-Functional Requirements</i> in software engineering.<br><br>
+      💡 <b>Core Stack:</b> Full-stack TypeScript/JavaScript environment utilizing Bun, NestJS, Prisma, Next.js, and Tailwind CSS.<br><br>
+      🎨 <b>Design:</b> Crafting responsive UI/UX and precise layouts using Figma.<br><br>
       ⚡ <b>Quote:</b> <i>"You never finish a program, you just stop working on it."</i>
     </td>
-    <td align="center" width="45%">
-      <img src="https://user-images.githubusercontent.com/74038190/243328563-d0cfe7d1-0b8c-4e4a-9a66-875290ba6065.gif" style="width: 100%; border-radius: 15px;" />
+    <td width="40%" align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/243328563-d0cfe7d1-0b8c-4e4a-9a66-875290ba6065.gif" width="250" style="border-radius: 20px; margin-bottom: 20px;" alt="Coding Animation">
     </td>
   </tr>
 </table>
 
-<br/>
+---
 
-## ⚒️ Technical Arsenal
+## 🚀 Technologies & Tools
 
 <div align="center">
-  <p><b>Core Stack</b></p>
+  <h3><b>Frontend, Backend & Runtime</b></h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,nestjs,prisma,bun&perline=6&theme=dark" alt="Core Stack" />
+    <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,bun,nestjs,prisma&theme=dark&perline=6" alt="Core Stack" />
   </a>
-  <br/><br/>
-  <p><b>Databases & Tools</b></p>
+  <br><br>
+  <h3><b>Databases, Design & Infrastructure</b></h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,figma,docker,vscode,git&perline=6&theme=dark" alt="Databases and Tools" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,figma,docker,vscode,git&theme=dark&perline=6" alt="Tools" />
   </a>
 </div>
 
-<br/>
+<br>
+
+---
 
 ## 📊 GitHub Analytics
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hychtclyff&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=00000000&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hychtclyff&layout=compact&langs_count=6&theme=radical&bg_color=00000000&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hychtclyff&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hychtclyff&layout=compact&langs_count=6&theme=tokyonight" height="170" alt="Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hychtclyff&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <p style="font-size: 14px; font-weight: bold; color: #a9b1d6;">Profile Visitors</p>
+  <img src="https://profile-counter.glitch.me/Hychtclyff/count.svg" alt="Profile Views" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hychtclyff&theme=radical&background=00000000&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <p style="font-size: 14px; font-weight: bold;">Profile Views</p>
-  <img src="https://profile-counter.glitch.me/Hychtclyff/count.svg" alt="profile vistor count"/>
-</div>
-
-<div align="center">
-  <img src="https://github.com/punitkmryh/punitkmryh/raw/master/wave.svg" style="max-width: 100%; opacity: 0.8;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </div>
